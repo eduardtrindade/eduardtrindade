@@ -1,4 +1,4 @@
-### Olá! Eu sou o Eduardo 😄👋
+### Olá! Eu sou o Eduardo Trindade 😄👋
 ---
 ### Algumas das Tecnologias em que eu mais utilizo:
 
