@@ -10,5 +10,5 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div>
 <br>
-Sou apaixonado por tecnologia e atualmente estou cursando o segundo ano do Ensino Médio e Técnico em Informática.
+Sou apaixonado por tecnologia e atualmente estou cursando o segundo ano do Ensino Médio + Técnico em Informática.
 <img align="center" alt="css" src="https://media.discordapp.net/attachments/1052029634037960716/1100632655160168529/gatito.png"/>
